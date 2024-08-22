@@ -11,7 +11,7 @@ Prazer, sou o 2ForAll. Sou um jovem iniciante na área da progamação. Criei es
 <h4>Hobbies: <h4>
 Conhecimento/estudar, Música, Esporte e entre outros.
 
-<h5>Objetivos/Motivações: <h5>
+<h8>Objetivos/Motivações: <h8>
 Minha principal motivação é virar um profissional/especialista na área da tecnologia(Especificamente na área de Desenvolvimento de jogos), possuindo cada vez mais conhecimento.
 
 
